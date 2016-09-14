@@ -1,0 +1,5 @@
+---
+# defaults file for selinux
+selinux_state: enforcing
+selinux_policy: targeted
+
