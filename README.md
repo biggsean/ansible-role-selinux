@@ -1,7 +1,5 @@
 Ansible Role:  selinux
 =========
-[![Build Status](https://travis-ci.org/biggsean/ansible-role-selinux.svg?branch=master)](https://travis-ci.org/biggsean/ansible-role-selinux)
-
 Simple role to install selinux.
 
 Requirements
